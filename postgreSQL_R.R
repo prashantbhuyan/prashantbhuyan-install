@@ -1,6 +1,4 @@
 # Prashant Bhuyan 
-# Assignment HW1 for IS607 Data Acquisition & Management 
-# The purpose of this application is to answer 3 questions that show that 
 # R, RStudio and PostregSQL have been properly installed and that the DMwR 
 # package has been properly loaded and installed.  
 
